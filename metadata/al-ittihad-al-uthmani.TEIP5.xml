@@ -7,7 +7,7 @@
             <titleStmt change="#d2e69" xml:lang="en">
                 <title change="#d2e69" xml:lang="en">Bibliographic metadata for al-Ittiḥād al-ʿUthmānī</title>
                 <author xml:id="pers_TG" change="#d2e69" xml:lang="en">
-                    <persName change="#d2e69" xml:lang="en">Till Grallert</persName>
+                    <persName change="#d2e69" xml:lang="en"><forename>Till</forename> <surname>Grallert</surname></persName>
                 </author>
             </titleStmt>
             <publicationStmt xml:lang="en" xml:id="publicationStmt_1.d2e23">
