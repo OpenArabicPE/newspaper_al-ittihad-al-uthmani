@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="oclc_42900564-i_471" prev="oclc_42900564-i_470.TEIP5.xml" next="oclc_42900564-i_472.TEIP5.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns="http://www.tei-c.org/ns/1.0"
+         xml:id="oclc_42900564-i_471"
+         prev="oclc_42900564-i_470.TEIP5.xml"
+         next="oclc_42900564-i_472.TEIP5.xml">
    <tei:teiHeader xml:lang="en">
       <tei:fileDesc>
          <tei:titleStmt>
@@ -52,8 +61,16 @@
                                 <placeName xml:lang="fr" ref="geon:276781" change="#d5e74">Beyrouth</placeName>
                             </pubPlace>
                             <tei:date when="1910-04-07" xml:lang="en">7 April 1910, Thursday</tei:date>
-                            <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-04-07" when-custom="1328-03-26" xml:lang="ar-Latn-x-ijmes">26 Rabīʿ al-awwal 1328, Thursday</tei:date>
-                            <tei:date xml:lang="ar-Latn-x-ijmes" when="1910-04-07" when-custom="1326-01-25" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">25 Mārt 1326, Thursday</tei:date>
+                            <tei:date calendar="#cal_islamic"
+                               datingMethod="#cal_islamic"
+                               when="1910-04-07"
+                               when-custom="1328-03-26"
+                               xml:lang="ar-Latn-x-ijmes">26 Rabīʿ al-awwal 1328, Thursday</tei:date>
+                            <tei:date xml:lang="ar-Latn-x-ijmes"
+                               when="1910-04-07"
+                               when-custom="1326-01-25"
+                               calendar="#cal_ottomanfiscal"
+                               datingMethod="#cal_ottomanfiscal">25 Mārt 1326, Thursday</tei:date>
                         </tei:imprint>
                         <tei:biblScope from="2" to="2" unit="volume"/>
                         <tei:biblScope from="471" to="471" unit="issue"/>
@@ -62,27 +79,35 @@
                 </tei:biblStruct>
          </tei:sourceDesc>
       </tei:fileDesc>
-      <tei:revisionDesc><change when="2019-03-07" who="#pers_TG" xml:id="d3e150" xml:lang="en">Generated a new <tei:gi xml:lang="en">front</tei:gi>based on the <tei:gi xml:lang="en">sourceDesc</tei:gi>that matches the information found in the masthead of the actual issues.</change>
+      <tei:revisionDesc>
          <tei:change when="2019-03-07">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-ittihad-al-uthmani/metadata/al-ittihad-al-uthmani.TEIP5.xml.</tei:change>
       </tei:revisionDesc>
    </tei:teiHeader>
    <tei:facsimile>
       <tei:surface xml:id="facs_1">
-         <tei:graphic xml:id="facs_1-g_3" url="../images/oclc_42900564-i_471-p_1.tif" mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_1-g_3"
+                      url="../images/oclc_42900564-i_471-p_1.tif"
+                      mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_2">
-         <tei:graphic xml:id="facs_2-g_3" url="../images/oclc_42900564-i_471-p_2.tif" mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_2-g_3"
+                      url="../images/oclc_42900564-i_471-p_2.tif"
+                      mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_3">
-         <tei:graphic xml:id="facs_3-g_3" url="../images/oclc_42900564-i_471-p_3.tif" mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_3-g_3"
+                      url="../images/oclc_42900564-i_471-p_3.tif"
+                      mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_4">
-         <tei:graphic xml:id="facs_4-g_3" url="../images/oclc_42900564-i_472-p_0.tif" mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_4-g_3"
+                      url="../images/oclc_42900564-i_472-p_0.tif"
+                      mimeType="image/tiff"/>
       </tei:surface>
    </tei:facsimile>
-   <tei:text xml:lang="ar"><tei:pb ed="print" n="1" facs="#facs_1"/>
-      
-      <front change="#d3e150"><tei:div change="#d3e150" type="masthead"><tei:bibl><tei:biblScope unit="issue" from="471" to="471">العدد 471</tei:biblScope><tei:biblScope unit="volume" from="2" to="2">السنة الثانية</tei:biblScope><lb/><title level="j" xml:lang="ar">الاتحاد العثماني</title><lb/><lb/><placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName> في <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-04-07" when-custom="1328-03-26" xml:lang="ar">٢٦ ربيع الاول سنة ١٣٢٨</tei:date> الموافق <tei:date xml:lang="ar" when="1910-04-07" when-custom="1326-01-25" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">٢٥ مارت سنة ١٣٢٦</tei:date> و</tei:bibl></tei:div></front>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="1" facs="#facs_1"/>
+      <front/>
       <tei:body>
          <tei:div type="item">
             <tei:pb ed="print" n="2" facs="#facs_2"/>
