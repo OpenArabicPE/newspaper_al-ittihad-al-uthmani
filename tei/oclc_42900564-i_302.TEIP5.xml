@@ -18,7 +18,7 @@
             <availability status="restricted">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
             </availability>
-            <idno type="url">https://github.com/openarabicpe/newspaper_al-asr-al-jadid/blob/master/tei/oclc_42900564-i_302.TEIP5.xml</idno>
+            <idno type="url">https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_302.TEIP5.xml</idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
             <tei:biblStruct xml:lang="ar">
@@ -69,7 +69,9 @@
       </tei:revisionDesc>
    </tei:teiHeader>
    <tei:facsimile>
-      <tei:surface xml:id="facs_1"/>
+      <tei:surface xml:id="facs_1">
+        <tei:graphic xml:id="facs_1-g_3" url="../images/oclc_42900564-i_301-p_3.tif" mimeType="image/tiff"/>
+      </tei:surface>
       <tei:surface xml:id="facs_2">
          <tei:graphic xml:id="facs_2-g_3" url="../images/oclc_42900564-i_302-p_2.tif" mimeType="image/tiff"/>
       </tei:surface>
