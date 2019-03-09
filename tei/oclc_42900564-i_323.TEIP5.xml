@@ -62,7 +62,7 @@
                                 <placeName xml:lang="en" ref="geon:276781" change="#d5e74">Beirut</placeName>
                                 <placeName xml:lang="fr" ref="geon:276781" change="#d5e74">Beyrouth</placeName>
                             </pubPlace>
-                            <tei:date when="1909-10-09" xml:lang="en">9 October 1909, Saturday</tei:date>
+                            <tei:date calendar="#cal_gregorian" when="1909-10-09" xml:lang="en">9 October 1909, Saturday</tei:date>
                             <tei:date calendar="#cal_islamic"
                                datingMethod="#cal_islamic"
                                when="1909-10-09"
