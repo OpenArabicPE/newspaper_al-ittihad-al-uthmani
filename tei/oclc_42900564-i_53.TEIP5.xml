@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="oclc_42900564-i_53" prev="oclc_42900564-i_52.TEIP5.xml" next="oclc_42900564-i_54.TEIP5.xml">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>-->
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="oclc_42900564-i_53" prev="oclc_42900564-i_52.TEIP5.xml" next="oclc_42900564-i_54.TEIP5.xml">
    <tei:teiHeader xml:lang="en">
       <tei:fileDesc>
          <tei:titleStmt>
@@ -86,7 +89,7 @@
       
       <front change="#d3e157"><tei:div change="#d3e157" type="masthead"><tei:bibl><tei:biblScope unit="issue" from="53" to="53">العدد 53</tei:biblScope><tei:biblScope unit="volume" from="1" to="1">السنة الاولى</tei:biblScope><lb/><title level="j" xml:lang="ar">الاتحاد العثماني</title><lb/><title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية ادبية اجتماعية عمرانية</title><lb/><placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName> في <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1908-11-25" when-custom="1326-11-01" xml:lang="ar">١ ذو القعدة سنة ١٣٢٦</tei:date> الموافق <tei:date xml:lang="ar" when="1908-11-25" when-custom="1324-09-12" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">١٢ تسرين الثاني سنة ١٣٢٤</tei:date> و<tei:date calendar="#cal_gregorian" when="1908-11-25" xml:lang="ar">٢٥ تسرين الثاني سنة ١٩٠٨</tei:date></tei:bibl></tei:div></front>
       <tei:body>
-         <tei:div type="item">
+         <tei:div type="item" subtype="article">
             <tei:pb ed="print" n="2" facs="#facs_2"/>
             <tei:pb ed="print" n="3" facs="#facs_3"/>
             <tei:pb ed="print" n="4" facs="#facs_4"/>
