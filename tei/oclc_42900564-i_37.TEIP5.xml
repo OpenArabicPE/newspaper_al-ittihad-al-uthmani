@@ -1,96 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="oclc_42900564-i_37" prev="oclc_42900564-i_36.TEIP5.xml" next="oclc_42900564-i_38.TEIP5.xml">
-   <tei:teiHeader xml:lang="en">
-      <tei:fileDesc>
-         <tei:titleStmt>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?>
+<TEI next="oclc_42900564-i_38.TEIP5.xml" prev="oclc_42900564-i_36.TEIP5.xml" xml:id="oclc_42900564-i_37" xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
             <title>al-Ittiḥād al-ʿUthmānī #37, 6 November 1908</title>
             <title type="sub">TEI edition</title>
             <respStmt xml:lang="en">
                <resp>TEI edition</resp>
                <persName xml:id="pers_TG">Till Grallert</persName>
             </respStmt>
-         </tei:titleStmt>
-         <tei:publicationStmt>
-            <authority>
-               <persName>Till Grallert</persName>
-            </authority>
+         </titleStmt>
+         <publicationStmt>
+            <authority> <persName>Till Grallert</persName> </authority>
             <pubPlace>Beirut</pubPlace>
             <date when="2019">2019</date>
             <availability status="restricted">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
             </availability>
             <idno type="url">https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml</idno>
-         </tei:publicationStmt>
-         <tei:sourceDesc>
-            <tei:biblStruct xml:lang="ar">
-                    <tei:monogr xml:lang="ar">
-                        <title level="j" xml:lang="ar">الاتحاد العثماني</title>
-                        <title level="j" xml:lang="ar-Latn-x-ijmes">al-Ittiḥād al-ʿUthmānī</title>
-                        <title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية ادبية اجتماعية عمرانية</title>
-                        <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya adabiyya ijtimāʿiyya ʿumrāniyya</title>
-                        <idno type="OCLC" xml:lang="en">42900564</idno>
-                        <idno type="OCLC" xml:lang="en">506290085</idno>
-                        <idno type="OCLC" xml:lang="en">792755286</idno>
-                        <editor ref="viaf:79119650" xml:lang="en">
-                            <persName xml:lang="ar" change="#d2e54" ref="oape:pers:787 viaf:305214837">
-                                <forename change="#d2e69" xml:lang="ar">احمد</forename>
-                                <forename change="#d2e69" xml:lang="ar">حسن</forename>
-                                <surname change="#d2e69" xml:lang="ar">طبارة</surname>
-                            </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e69" xml:lang="ar-Latn-x-ijmes">Aḥmad</forename>
-                                <forename change="#d2e69" xml:lang="ar-Latn-x-ijmes">Ḥasan</forename>
-                                <surname change="#d2e69" xml:lang="ar-Latn-x-ijmes">Ṭabbāra</surname>
-                            </persName>
-                        </editor>
-                        <tei:imprint xml:lang="en">
-                            <publisher xml:lang="en">
-                                <orgName xml:lang="ar">مطبعة الاهلية</orgName>
-                                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa al-Ahliyya</orgName>
-                            </publisher>
-                            <pubPlace xml:lang="en">
-                                <placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName>
-                                <placeName xml:lang="ar-Latn-x-ijmes" ref="geon:276781" change="#d5e74">Bayrūt</placeName>
-                                <placeName xml:lang="en" ref="geon:276781" change="#d5e74">Beirut</placeName>
-                                <placeName xml:lang="fr" ref="geon:276781" change="#d5e74">Beyrouth</placeName>
-                            </pubPlace>
-                            <tei:date calendar="#cal_gregorian" when="1908-11-06" xml:lang="en">6 November 1908, Friday</tei:date>
-                            <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1908-11-06" when-custom="1326-10-11" xml:lang="ar-Latn-x-ijmes">11 Shawwāl 1326, Friday</tei:date>
-                            <tei:date xml:lang="ar-Latn-x-ijmes" when="1908-11-06" when-custom="1324-08-24" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">24 Tishrīn al-awwal 1324, Friday</tei:date>
-                        </tei:imprint>
-                        <tei:biblScope from="1" to="1" unit="volume"/>
-                        <tei:biblScope from="37" to="37" unit="issue"/>
-                        <tei:biblScope from="1" to="4" unit="page"/>
-                    </tei:monogr>
-                </tei:biblStruct>
-         </tei:sourceDesc>
-      </tei:fileDesc>
-      <tei:revisionDesc><change when="2019-03-09" who="#pers_TG" xml:id="d3e157" xml:lang="en">Generated a new <tei:gi xml:lang="en">front</tei:gi>based on the <tei:gi xml:lang="en">sourceDesc</tei:gi>that matches the information found in the masthead of the actual issues.</change>
-         <tei:change when="2019-03-07">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-ittihad-al-uthmani/metadata/al-ittihad-al-uthmani.TEIP5.xml.</tei:change>
-      </tei:revisionDesc>
-   </tei:teiHeader>
-   <tei:facsimile>
-      <tei:surface xml:id="facs_1">
-         <tei:graphic xml:id="facs_1-g_3" url="../images/oclc_42900564-i_37-p_1.tif" mimeType="image/tiff"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_2">
-         <tei:graphic xml:id="facs_2-g_3" url="../images/oclc_42900564-i_37-p_2.tif" mimeType="image/tiff"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_3">
-         <tei:graphic xml:id="facs_3-g_3" url="../images/oclc_42900564-i_37-p_3.tif" mimeType="image/tiff"/>
-      </tei:surface>
-      <tei:surface xml:id="facs_4">
-         <tei:graphic xml:id="facs_4-g_3" url="../images/oclc_42900564-i_38-p_0.tif" mimeType="image/tiff"/>
-      </tei:surface>
-   </tei:facsimile>
-   <tei:text xml:lang="ar"><tei:pb ed="print" n="1" facs="#facs_1"/>
-      
-      <front change="#d3e157"><tei:div change="#d3e157" type="masthead"><tei:bibl><tei:biblScope unit="issue" from="37" to="37">العدد 37</tei:biblScope><tei:biblScope unit="volume" from="1" to="1">السنة الاولى</tei:biblScope><lb/><title level="j" xml:lang="ar">الاتحاد العثماني</title><lb/><title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية ادبية اجتماعية عمرانية</title><lb/><placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName> في <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1908-11-06" when-custom="1326-10-11" xml:lang="ar">١١ شوال سنة ١٣٢٦</tei:date> الموافق <tei:date xml:lang="ar" when="1908-11-06" when-custom="1324-08-24" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">٢٤ تسرين الاول سنة ١٣٢٤</tei:date> و<tei:date calendar="#cal_gregorian" when="1908-11-06" xml:lang="ar">٦ تسرين الثاني سنة ١٩٠٨</tei:date></tei:bibl></tei:div></front>
-      <tei:body>
-         <tei:div type="item">
-            <tei:pb ed="print" n="2" facs="#facs_2"/>
-            <tei:pb ed="print" n="3" facs="#facs_3"/>
-            <tei:pb ed="print" n="4" facs="#facs_4"/>
-         </tei:div>
-      </tei:body>
-   </tei:text>
-</tei:TEI>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct xml:lang="ar">
+               <monogr xml:lang="ar">
+                  <title level="j" xml:lang="ar">الاتحاد العثماني</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Ittiḥād al-ʿUthmānī</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية ادبية اجتماعية عمرانية</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda yawmiyya siyāsiyya adabiyya ijtimāʿiyya ʿumrāniyya</title>
+                  <idno type="OCLC" xml:lang="en">42900564</idno>
+                  <idno type="OCLC" xml:lang="en">506290085</idno>
+                  <idno type="OCLC" xml:lang="en">792755286</idno>
+                  <editor ref="viaf:79119650" xml:lang="en"> <persName change="#d2e54" ref="oape:pers:787 viaf:305214837" xml:lang="ar"> <forename change="#d2e69" xml:lang="ar">احمد</forename>
+                     <forename change="#d2e69" xml:lang="ar">حسن</forename> <surname change="#d2e69" xml:lang="ar">طبارة</surname> </persName> <persName xml:lang="ar-Latn-x-ijmes"> <forename
+                     change="#d2e69" xml:lang="ar-Latn-x-ijmes">Aḥmad</forename> <forename change="#d2e69" xml:lang="ar-Latn-x-ijmes">Ḥasan</forename> <surname change="#d2e69"
+                     xml:lang="ar-Latn-x-ijmes">Ṭabbāra</surname> </persName> </editor>
+                  <imprint xml:lang="en">
+                     <publisher xml:lang="en"> <orgName xml:lang="ar">مطبعة الاهلية</orgName> <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa al-Ahliyya</orgName> </publisher>
+                     <pubPlace xml:lang="en"> <placeName change="#d5e74" ref="geon:276781" xml:lang="ar">بيروت</placeName> <placeName change="#d5e74" ref="geon:276781" xml:lang="ar-Latn-x-ijmes"
+                        >Bayrūt</placeName> <placeName change="#d5e74" ref="geon:276781" xml:lang="en">Beirut</placeName> <placeName change="#d5e74" ref="geon:276781" xml:lang="fr"
+                        >Beyrouth</placeName> </pubPlace>
+                     <date calendar="#cal_gregorian" when="1908-11-06" xml:lang="en">6 November 1908, Friday</date>
+                     <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1908-11-06" when-custom="1326-10-11" xml:lang="ar-Latn-x-ijmes">11 Shawwāl 1326, Friday</date>
+                     <date calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" when="1908-11-06" when-custom="1324-08-24" xml:lang="ar-Latn-x-ijmes"
+                        >24 Tishrīn al-awwal 1324, Friday</date>
+                  </imprint>
+                  <biblScope from="1" to="1" unit="volume"/>
+                  <biblScope from="37" to="37" unit="issue"/>
+                  <biblScope from="1" to="4" unit="page"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2019-03-09" who="#pers_TG" xml:id="d3e157" xml:lang="en">Generated a new <gi xml:lang="en">front</gi>based on the <gi xml:lang="en"
+            >sourceDesc</gi>that matches the information found in the masthead of the actual issues.</change>
+         <change when="2019-03-07"
+            >Created this file by automatic conversion of <gi>biblStruct</gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-ittihad-al-uthmani/metadata/al-ittihad-al-uthmani.TEIP5.xml.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="facs_1">
+         <graphic mimeType="image/tiff" url="../images/oclc_42900564-i_37-p_1.tif" xml:id="facs_1-g_3"/>
+      </surface>
+      <surface xml:id="facs_2">
+         <graphic mimeType="image/tiff" url="../images/oclc_42900564-i_37-p_2.tif" xml:id="facs_2-g_3"/>
+      </surface>
+      <surface xml:id="facs_3">
+         <graphic mimeType="image/tiff" url="../images/oclc_42900564-i_37-p_3.tif" xml:id="facs_3-g_3"/>
+      </surface>
+      <surface xml:id="facs_4">
+         <graphic mimeType="image/tiff" url="../images/oclc_42900564-i_38-p_0.tif" xml:id="facs_4-g_3"/>
+      </surface>
+   </facsimile>
+   <text xml:lang="ar">
+      <pb ed="print" facs="#facs_1" n="1"/>
+      <front change="#d3e157">
+         <div change="#d3e157" type="masthead">
+            <bibl><biblScope from="37" to="37" unit="issue">العدد 37</biblScope><biblScope from="1" to="1" unit="volume">السنة الاولى</biblScope><lb/><title level="j" xml:lang="ar"
+               >الاتحاد العثماني</title><lb/><title level="j" type="sub" xml:lang="ar">جريدة يومية سياسية ادبية اجتماعية عمرانية</title><lb/><placeName change="#d5e74" ref="geon:276781" xml:lang="ar"
+               >بيروت</placeName> في <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1908-11-06" when-custom="1326-10-11" xml:lang="ar"
+               >١١ شوال سنة ١٣٢٦</date> الموافق <date calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" when="1908-11-06" when-custom="1324-08-24" xml:lang="ar"
+               >٢٤ تسرين الاول سنة ١٣٢٤</date> و<date calendar="#cal_gregorian" when="1908-11-06" xml:lang="ar">٦ تسرين الثاني سنة ١٩٠٨</date></bibl>
+         </div>
+      </front>
+      <body xml:lang="ar">
+         <div subtype="article" type="item">
+            <head>نهضة الالبان</head>
+            <opener><note place="inline" type="bibliographic"><bibl type="periodical">نشرت جريدة (<title xml:lang="ota">شوراى دولت</title>) <textLang mainLang="ota"
+               >التركية</textLang> نشرة عمومية اصدرها نادي الاتحاد الالباني وهذا تعريبها</bibl></note></opener>
+            <pb ed="print" facs="#facs_2" n="2"/>
+         </div>
+         <div subtype="article" type="item">
+            <head>ماذا يجب علينا بعد الدستور</head>
+            <div type="section">
+               <head>٢</head>
+            </div>
+            <byline><persName>نعوم اسود</persName></byline>
+         </div>
+         <div subtype="article" type="item">
+            <head>التربية بالعلم والعلم بالمدارس</head>
+            <pb ed="print" facs="#facs_3" n="3"/>
+         </div>
+         <div subtype="article" type="item">
+            <head>بيان حقيقي</head>
+         </div>
+         <div subtype="article" type="item">
+            <head>البريد الحجازي</head>
+            <pb ed="print" facs="#facs_4" n="4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
