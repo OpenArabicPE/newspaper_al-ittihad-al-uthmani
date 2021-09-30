@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:z="http://www.zotero.org/namespaces/export#"
+         xmlns:bib="http://purl.org/net/biblio#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+         xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0"
+         xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+         xmlns:link="http://purl.org/rss/1.0/modules/link/"
+         xmlns:oape="https://openarabicpe.github.io/ns">
+   <bib:Article rdf:about="#oclc_42900564-i_37-div_2.d2e241">
+      <z:itemType>magazineArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Periodical>
+            <prism:volume>1</prism:volume>
+            <prism:number>37</prism:number>
+            <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
+         </bib:Periodical>
+      </dcterms:isPartOf>
+      <z:shortTitle/>
+      <bib:authors>
+         <rdf:Seq/>
+      </bib:authors>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>طبارة</foaf:surname>
+                  <foaf:givenName>احمد</foaf:givenName>
+                  <foaf:givenName>حسن</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>بيروت</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>مطبعة الاهلية</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml#div_2.d2e241</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://openarabicpe.github.io/newspaper_al-ittihad-al-uthmani/tei/oclc_42900564-i_37.TEIP5.xml#div_2.d2e241</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <bib:pages>1-2</bib:pages>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:description>Citation Key: oclc_42900564-i_37-div_2.d2e241
+BibTeX Cite Key: oclc_42900564-i_37-div_2.d2e241
+date_mali: 1324-08-24
+date_hijri: 1326-10-11
+oclc: 42900564
+place: بيروت
+publisher: مطبعة الاهلية
+</dc:description>
+   </bib:Article>
+   <bib:Article rdf:about="#oclc_42900564-i_37-div_3.d2e260">
+      <z:itemType>magazineArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Periodical>
+            <prism:volume>1</prism:volume>
+            <prism:number>37</prism:number>
+            <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
+         </bib:Periodical>
+      </dcterms:isPartOf>
+      <z:shortTitle/>
+      <bib:authors>
+         <rdf:Seq/>
+      </bib:authors>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>طبارة</foaf:surname>
+                  <foaf:givenName>احمد</foaf:givenName>
+                  <foaf:givenName>حسن</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>بيروت</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>مطبعة الاهلية</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml#div_3.d2e260</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://openarabicpe.github.io/newspaper_al-ittihad-al-uthmani/tei/oclc_42900564-i_37.TEIP5.xml#div_3.d2e260</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <bib:pages>2</bib:pages>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:description>Citation Key: oclc_42900564-i_37-div_3.d2e260
+BibTeX Cite Key: oclc_42900564-i_37-div_3.d2e260
+date_mali: 1324-08-24
+date_hijri: 1326-10-11
+oclc: 42900564
+place: بيروت
+publisher: مطبعة الاهلية
+</dc:description>
+   </bib:Article>
+   <bib:Article rdf:about="#oclc_42900564-i_37-div_5.d2e279">
+      <z:itemType>magazineArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Periodical>
+            <prism:volume>1</prism:volume>
+            <prism:number>37</prism:number>
+            <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
+         </bib:Periodical>
+      </dcterms:isPartOf>
+      <z:shortTitle/>
+      <bib:authors>
+         <rdf:Seq/>
+      </bib:authors>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>طبارة</foaf:surname>
+                  <foaf:givenName>احمد</foaf:givenName>
+                  <foaf:givenName>حسن</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>بيروت</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>مطبعة الاهلية</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml#div_5.d2e279</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://openarabicpe.github.io/newspaper_al-ittihad-al-uthmani/tei/oclc_42900564-i_37.TEIP5.xml#div_5.d2e279</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <bib:pages>2-3</bib:pages>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:description>Citation Key: oclc_42900564-i_37-div_5.d2e279
+BibTeX Cite Key: oclc_42900564-i_37-div_5.d2e279
+date_mali: 1324-08-24
+date_hijri: 1326-10-11
+oclc: 42900564
+place: بيروت
+publisher: مطبعة الاهلية
+</dc:description>
+   </bib:Article>
+   <bib:Article rdf:about="#oclc_42900564-i_37-div_6.d2e287">
+      <z:itemType>magazineArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Periodical>
+            <prism:volume>1</prism:volume>
+            <prism:number>37</prism:number>
+            <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
+         </bib:Periodical>
+      </dcterms:isPartOf>
+      <z:shortTitle/>
+      <bib:authors>
+         <rdf:Seq/>
+      </bib:authors>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>طبارة</foaf:surname>
+                  <foaf:givenName>احمد</foaf:givenName>
+                  <foaf:givenName>حسن</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>بيروت</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>مطبعة الاهلية</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml#div_6.d2e287</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://openarabicpe.github.io/newspaper_al-ittihad-al-uthmani/tei/oclc_42900564-i_37.TEIP5.xml#div_6.d2e287</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <bib:pages>3</bib:pages>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:description>Citation Key: oclc_42900564-i_37-div_6.d2e287
+BibTeX Cite Key: oclc_42900564-i_37-div_6.d2e287
+date_mali: 1324-08-24
+date_hijri: 1326-10-11
+oclc: 42900564
+place: بيروت
+publisher: مطبعة الاهلية
+</dc:description>
+   </bib:Article>
+   <bib:Article rdf:about="#oclc_42900564-i_37-div_7.d2e293">
+      <z:itemType>magazineArticle</z:itemType>
+      <dcterms:isPartOf>
+         <bib:Periodical>
+            <prism:volume>1</prism:volume>
+            <prism:number>37</prism:number>
+            <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
+         </bib:Periodical>
+      </dcterms:isPartOf>
+      <z:shortTitle/>
+      <bib:authors>
+         <rdf:Seq/>
+      </bib:authors>
+      <bib:editors>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>طبارة</foaf:surname>
+                  <foaf:givenName>احمد</foaf:givenName>
+                  <foaf:givenName>حسن</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
+      </bib:editors>
+      <dc:publisher>
+         <foaf:Organization>
+            <vcard:adr>
+               <vcard:Address>
+                  <vcard:locality>بيروت</vcard:locality>
+               </vcard:Address>
+            </vcard:adr>
+            <foaf:name>مطبعة الاهلية</foaf:name>
+         </foaf:Organization>
+      </dc:publisher>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_37.TEIP5.xml#div_7.d2e293</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <dc:identifier>
+         <dcterms:URI>
+            <rdf:value>https://openarabicpe.github.io/newspaper_al-ittihad-al-uthmani/tei/oclc_42900564-i_37.TEIP5.xml#div_7.d2e293</rdf:value>
+         </dcterms:URI>
+      </dc:identifier>
+      <bib:pages>3-4</bib:pages>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:date>1908-11-06</dc:date>
+      <dc:description>Citation Key: oclc_42900564-i_37-div_7.d2e293
+BibTeX Cite Key: oclc_42900564-i_37-div_7.d2e293
+date_mali: 1324-08-24
+date_hijri: 1326-10-11
+oclc: 42900564
+place: بيروت
+publisher: مطبعة الاهلية
+</dc:description>
+   </bib:Article>
+</rdf:RDF>
