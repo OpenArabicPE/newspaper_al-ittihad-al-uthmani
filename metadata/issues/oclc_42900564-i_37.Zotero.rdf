@@ -22,7 +22,8 @@
             <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
          </bib:Periodical>
       </dcterms:isPartOf>
-      <z:shortTitle/>
+      <dc:title>نهضة الالبان</dc:title>
+      <z:shortTitle>نهضة الالبان</z:shortTitle>
       <bib:authors>
          <rdf:Seq/>
       </bib:authors>
@@ -69,6 +70,7 @@ oclc: 42900564
 place: بيروت
 publisher: مطبعة الاهلية
 </dc:description>
+      <z:language>ar</z:language>
    </bib:Article>
    <bib:Article rdf:about="#oclc_42900564-i_37-div_3.d2e260">
       <z:itemType>magazineArticle</z:itemType>
@@ -79,9 +81,17 @@ publisher: مطبعة الاهلية
             <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
          </bib:Periodical>
       </dcterms:isPartOf>
-      <z:shortTitle/>
+      <dc:title>ماذا يجب علينا بعد الدستور</dc:title>
+      <z:shortTitle>ماذا يجب علينا بعد الدستور</z:shortTitle>
       <bib:authors>
-         <rdf:Seq/>
+         <rdf:Seq>
+            <rdf:li>
+               <foaf:Person>
+                  <foaf:surname>اسود</foaf:surname>
+                  <foaf:givenName>نعوم</foaf:givenName>
+               </foaf:Person>
+            </rdf:li>
+         </rdf:Seq>
       </bib:authors>
       <bib:editors>
          <rdf:Seq>
@@ -126,6 +136,7 @@ oclc: 42900564
 place: بيروت
 publisher: مطبعة الاهلية
 </dc:description>
+      <z:language>ar</z:language>
    </bib:Article>
    <bib:Article rdf:about="#oclc_42900564-i_37-div_5.d2e279">
       <z:itemType>magazineArticle</z:itemType>
@@ -136,7 +147,8 @@ publisher: مطبعة الاهلية
             <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
          </bib:Periodical>
       </dcterms:isPartOf>
-      <z:shortTitle/>
+      <dc:title>التربية بالعلم والعلم بالمدارس</dc:title>
+      <z:shortTitle>التربية بالعلم والعلم بالمدارس</z:shortTitle>
       <bib:authors>
          <rdf:Seq/>
       </bib:authors>
@@ -183,6 +195,7 @@ oclc: 42900564
 place: بيروت
 publisher: مطبعة الاهلية
 </dc:description>
+      <z:language>ar</z:language>
    </bib:Article>
    <bib:Article rdf:about="#oclc_42900564-i_37-div_6.d2e287">
       <z:itemType>magazineArticle</z:itemType>
@@ -193,7 +206,8 @@ publisher: مطبعة الاهلية
             <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
          </bib:Periodical>
       </dcterms:isPartOf>
-      <z:shortTitle/>
+      <dc:title>بيان حقيقي</dc:title>
+      <z:shortTitle>بيان حقيقي</z:shortTitle>
       <bib:authors>
          <rdf:Seq/>
       </bib:authors>
@@ -240,6 +254,7 @@ oclc: 42900564
 place: بيروت
 publisher: مطبعة الاهلية
 </dc:description>
+      <z:language>ar</z:language>
    </bib:Article>
    <bib:Article rdf:about="#oclc_42900564-i_37-div_7.d2e293">
       <z:itemType>magazineArticle</z:itemType>
@@ -250,7 +265,8 @@ publisher: مطبعة الاهلية
             <dc:title>الاتحاد العثماني: جريدة يومية سياسية ادبية اجتماعية عمرانية</dc:title>
          </bib:Periodical>
       </dcterms:isPartOf>
-      <z:shortTitle/>
+      <dc:title>البريد الحجازي</dc:title>
+      <z:shortTitle>البريد الحجازي</z:shortTitle>
       <bib:authors>
          <rdf:Seq/>
       </bib:authors>
@@ -297,5 +313,6 @@ oclc: 42900564
 place: بيروت
 publisher: مطبعة الاهلية
 </dc:description>
+      <z:language>ar</z:language>
    </bib:Article>
 </rdf:RDF>
