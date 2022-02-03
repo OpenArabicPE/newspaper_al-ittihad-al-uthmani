@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="../xslt-boilerplate/teibp_parameters.xsl"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="oclc_42900564-i_399" prev="oclc_42900564-i_398.TEIP5.xml" next="oclc_42900564-i_400.TEIP5.xml">
-   <teiHeader xml:lang="en">
-      <fileDesc>
-         <titleStmt>
-            <title>al-Ittiḥād al-ʿUthmānī #399, 12 January 1910</title>
-            <title type="sub">TEI edition</title>
-            <respStmt xml:lang="en">
-               <resp>TEI edition</resp>
+   <teiHeader xml:lang="en" change="#d2e154" xml:id="teiHeader_1.d2e7">
+      <fileDesc change="#d2e154" xml:id="fileDesc_1.d2e9">
+         <titleStmt change="#d2e154" xml:id="titleStmt_1.d2e11">
+            <title change="#d2e154" xml:id="title_1.d2e13">al-Ittiḥād al-ʿUthmānī #399, 12 January 1910</title>
+            <title type="sub" change="#d2e154" xml:id="title_2.d2e15">TEI edition</title>
+            <respStmt xml:lang="en" change="#d2e154" xml:id="respStmt_1.d2e18">
+               <resp change="#d2e154" xml:id="resp_1.d2e20">TEI edition</resp>
                <persName xml:id="pers_TG">Till Grallert</persName>
             </respStmt>
          </titleStmt>
-         <publicationStmt>
-            <authority>
-               <persName>Till Grallert</persName>
+         <publicationStmt change="#d2e154" xml:id="publicationStmt_1.d2e27">
+            <authority change="#d2e154" xml:id="authority_1.d2e29">
+               <persName change="#d2e154" xml:id="persName_2.d2e31">Till Grallert</persName>
             </authority>
-            <pubPlace>Beirut</pubPlace>
-            <date when="2019">2019</date>
-            <availability status="restricted">
-               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            <pubPlace change="#d2e154" xml:id="pubPlace_1.d2e34">Beirut</pubPlace>
+            <date when="2019" change="#d2e154" xml:id="date_1.d2e36">2019</date>
+            <availability status="restricted" change="#d2e154" xml:id="availability_1.d2e39">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/" change="#d2e154" xml:id="licence_1.d2e41">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
             </availability>
-            <idno type="url">https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_399.TEIP5.xml</idno>
+            <idno type="url" change="#d2e154" xml:id="idno_1.d2e45">https://github.com/openarabicpe/newspaper_al-ittihad-al-uthmani/blob/master/tei/oclc_42900564-i_399.TEIP5.xml</idno>
          </publicationStmt>
-         <sourceDesc>
-            <biblStruct xml:lang="ar">
-                    <monogr xml:lang="ar">
-                        <title level="j" xml:lang="ar">الاتحاد العثماني</title>
-                        <title level="j" xml:lang="ar-Latn-x-ijmes">al-Ittiḥād al-ʿUthmānī</title>
-                        <idno type="OCLC" xml:lang="en">42900564</idno>
-                        <idno type="OCLC" xml:lang="en">506290085</idno>
-                        <idno type="OCLC" xml:lang="en">792755286</idno>
-                        <editor xml:lang="en">
-                            <persName xml:lang="ar" change="#d2e54" ref="oape:pers:787 viaf:305214837">
-                                <forename change="#d2e69" xml:lang="ar">احمد</forename>
-                                <forename change="#d2e69" xml:lang="ar">حسن</forename>
-                                <surname change="#d2e69" xml:lang="ar">طبارة</surname>
+         <sourceDesc change="#d2e154" xml:id="sourceDesc_1.d2e49">
+            <biblStruct xml:lang="ar" change="#d2e154" xml:id="biblStruct_1.d2e51">
+                    <monogr xml:lang="ar" change="#d2e154" xml:id="monogr_1.d2e53">
+                        <title level="j" xml:lang="ar" change="#d2e154" xml:id="title_3.d2e55">الاتحاد العثماني</title>
+                        <title level="j" xml:lang="ar-Latn-x-ijmes" change="#d2e154" xml:id="title_4.d2e58">al-Ittiḥād al-ʿUthmānī</title>
+                        <idno type="OCLC" xml:lang="en" change="#d2e154" xml:id="idno_2.d2e61">42900564</idno>
+                        <idno type="OCLC" xml:lang="en" change="#d2e154" xml:id="idno_3.d2e64">506290085</idno>
+                        <idno type="OCLC" xml:lang="en" change="#d2e154" xml:id="idno_4.d2e67">792755286</idno>
+                        <editor xml:lang="en" change="#d2e154" xml:id="editor_1.d2e71">
+                            <persName xml:lang="ar" change="#d2e54 #d2e154" ref="oape:pers:787 viaf:305214837" xml:id="persName_3.d2e73">
+                                <forename change="#d2e69 #d2e154" xml:lang="ar" xml:id="forename_1.d2e75">احمد</forename>
+                                <forename change="#d2e69 #d2e154" xml:lang="ar" xml:id="forename_2.d2e78">حسن</forename>
+                                <surname change="#d2e69 #d2e154" xml:lang="ar" xml:id="surname_1.d2e81">طبارة</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
-                                <forename change="#d2e69" xml:lang="ar-Latn-x-ijmes">Aḥmad</forename>
-                                <forename change="#d2e69" xml:lang="ar-Latn-x-ijmes">Ḥasan</forename>
-                                <surname change="#d2e69" xml:lang="ar-Latn-x-ijmes">Ṭabbāra</surname>
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d2e154" xml:id="persName_4.d2e85">
+                                <forename change="#d2e69 #d2e154" xml:lang="ar-Latn-x-ijmes" xml:id="forename_3.d2e87">Aḥmad</forename>
+                                <forename change="#d2e69 #d2e154" xml:lang="ar-Latn-x-ijmes" xml:id="forename_4.d2e90">Ḥasan</forename>
+                                <surname change="#d2e69 #d2e154" xml:lang="ar-Latn-x-ijmes" xml:id="surname_2.d2e93">Ṭabbāra</surname>
                             </persName>
                         </editor>
-                        <imprint xml:lang="en">
-                            <publisher xml:lang="en">
-                                <orgName xml:lang="ar">مطبعة الاهلية</orgName>
-                                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa al-Ahliyya</orgName>
+                        <imprint xml:lang="en" change="#d2e154" xml:id="imprint_1.d2e98">
+                            <publisher xml:lang="en" change="#d2e154" xml:id="publisher_1.d2e100">
+                                <orgName xml:lang="ar" change="#d2e154" xml:id="orgName_1.d2e102">مطبعة الاهلية</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes" change="#d2e154" xml:id="orgName_2.d2e105">Maṭbaʿa al-Ahliyya</orgName>
                             </publisher>
-                            <pubPlace xml:lang="en">
-                                <placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName>
-                                <placeName xml:lang="ar-Latn-x-ijmes" ref="geon:276781" change="#d5e74">Bayrūt</placeName>
-                                <placeName xml:lang="en" ref="geon:276781" change="#d5e74">Beirut</placeName>
-                                <placeName xml:lang="fr" ref="geon:276781" change="#d5e74">Beyrouth</placeName>
+                            <pubPlace xml:lang="en" change="#d2e154" xml:id="pubPlace_2.d2e109">
+                                <placeName xml:lang="ar" ref="geon:276781" change="#d5e74 #d2e154" xml:id="placeName_1.d2e111">بيروت</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes" ref="geon:276781" change="#d5e74 #d2e154" xml:id="placeName_2.d2e114">Bayrūt</placeName>
+                                <placeName xml:lang="en" ref="geon:276781" change="#d5e74 #d2e154" xml:id="placeName_3.d2e117">Beirut</placeName>
+                                <placeName xml:lang="fr" ref="geon:276781" change="#d5e74 #d2e154" xml:id="placeName_4.d2e120">Beyrouth</placeName>
                             </pubPlace>
-                            <date calendar="#cal_gregorian" when="1910-01-12" xml:lang="en">12 January 1910, Wednesday</date>
-                            <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-12" when-custom="1327-12-30" xml:lang="ar-Latn-x-ijmes">30 ShubDhū al-ḥijjaāṭ 1327, Wednesday</date>
-                            <date xml:lang="ar-Latn-x-ijmes" when="1910-01-12" when-custom="1325-10-30" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">30 Kānūn al-awwal 1325, Wednesday</date>
+                            <date calendar="#cal_gregorian" when="1910-01-12" xml:lang="en" change="#d2e154" xml:id="date_2.d2e124">12 January 1910, Wednesday</date>
+                            <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-12" when-custom="1327-12-30" xml:lang="ar-Latn-x-ijmes" change="#d2e154" xml:id="date_3.d2e127">30 ShubDhū al-ḥijjaāṭ 1327, Wednesday</date>
+                            <date xml:lang="ar-Latn-x-ijmes" when="1910-01-12" when-custom="1325-10-30" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" change="#d2e154" xml:id="date_4.d2e130">30 Kānūn al-awwal 1325, Wednesday</date>
                         </imprint>
-                        <biblScope from="2" to="2" unit="volume"/>
-                        <biblScope from="399" to="399" unit="issue"/>
-                        <biblScope from="1" to="4" unit="page"/>
+                        <biblScope from="2" to="2" unit="volume" change="#d2e154" xml:id="biblScope_1.d2e134"/>
+                        <biblScope from="399" to="399" unit="issue" change="#d2e154" xml:id="biblScope_2.d2e136"/>
+                        <biblScope from="1" to="4" unit="page" change="#d2e154" xml:id="biblScope_3.d2e138"/>
                     </monogr>
                 </biblStruct>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc><change when="2019-03-09" who="#pers_TG" xml:id="d3e150" xml:lang="en">Generated a new <gi xml:lang="en">front</gi>based on the <gi xml:lang="en">sourceDesc</gi>that matches the information found in the masthead of the actual issues.</change>
-         <change when="2019-03-07">Created this file by automatic conversion of <gi>biblStruct</gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-ittihad-al-uthmani/metadata/al-ittihad-al-uthmani.TEIP5.xml.</change>
+      <revisionDesc change="#d2e154" xml:id="revisionDesc_1.d2e144"><change when="2022-02-02" who="#pers_TG" xml:id="d2e154" xml:lang="en">Added automated @xml:id to every element had no existing @xml:id, following the pattern "name()_generate-id()".</change><change when="2019-03-09" who="#pers_TG" xml:id="d3e150" xml:lang="en">Generated a new <gi xml:lang="en" change="#d2e154" xml:id="gi_1.d2e147">front</gi>based on the <gi xml:lang="en" change="#d2e154" xml:id="gi_2.d2e150">sourceDesc</gi>that matches the information found in the masthead of the actual issues.</change>
+         <change when="2019-03-07" change="#d2e154" xml:id="change_2.d2e154">Created this file by automatic conversion of <gi change="#d2e154" xml:id="gi_3.d2e156">biblStruct</gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-ittihad-al-uthmani/metadata/al-ittihad-al-uthmani.TEIP5.xml.</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
+   <facsimile change="#d2e154" xml:id="facsimile_1.d2e161">
       <surface xml:id="facs_1">
          <graphic xml:id="facs_1-g_3" url="../images/oclc_42900564-i_399-p_1.tif" mimeType="image/tiff"/>
       </surface>
@@ -80,14 +80,14 @@
          <graphic xml:id="facs_4-g_3" url="../images/oclc_42900564-i_400-p_0.tif" mimeType="image/tiff"/>
       </surface>
    </facsimile>
-   <text xml:lang="ar"><pb ed="print" n="1" facs="#facs_1"/>
+   <text xml:lang="ar" change="#d2e154" xml:id="text_1.d2e184"><pb ed="print" n="1" facs="#facs_1" change="#d2e154" xml:id="pb_1.d2e185"/>
       
-      <front change="#d3e150"><div change="#d3e150" type="masthead"><bibl><biblScope unit="issue" from="399" to="399">العدد 399</biblScope><biblScope unit="volume" from="2" to="2">السنة الثانية</biblScope><lb/><title level="j" xml:lang="ar">الاتحاد العثماني</title><lb/><lb/><placeName xml:lang="ar" ref="geon:276781" change="#d5e74">بيروت</placeName> في <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-12" when-custom="1327-12-30" xml:lang="ar">٣٠ ذو الحجة سنة ١٣٢٧</date> الموافق <date xml:lang="ar" when="1910-01-12" when-custom="1325-10-30" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal">٣٠ كانون الاول سنة ١٣٢٥</date> و<date calendar="#cal_gregorian" when="1910-01-12" xml:lang="ar">١٢ كانون الثاني سنة ١٩١٠</date></bibl></div></front>
-      <body>
-         <div type="item">
-            <pb ed="print" n="2" facs="#facs_2"/>
-            <pb ed="print" n="3" facs="#facs_3"/>
-            <pb ed="print" n="4" facs="#facs_4"/>
+      <front change="#d3e150 #d2e154" xml:id="front_1.d2e187"><div change="#d3e150 #d2e154" type="masthead" xml:id="div_1.d2e188"><bibl change="#d2e154" xml:id="bibl_1.d2e189"><biblScope unit="issue" from="399" to="399" change="#d2e154" xml:id="biblScope_4.d2e190">العدد 399</biblScope><biblScope unit="volume" from="2" to="2" change="#d2e154" xml:id="biblScope_5.d2e192">السنة الثانية</biblScope><lb change="#d2e154" xml:id="lb_1.d2e194"/><title level="j" xml:lang="ar" change="#d2e154" xml:id="title_5.d2e195">الاتحاد العثماني</title><lb change="#d2e154" xml:id="lb_2.d2e197"/><lb change="#d2e154" xml:id="lb_3.d2e198"/><placeName xml:lang="ar" ref="geon:276781" change="#d5e74 #d2e154" xml:id="placeName_5.d2e199">بيروت</placeName> في <date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-12" when-custom="1327-12-30" xml:lang="ar" change="#d2e154" xml:id="date_5.d2e202">٣٠ ذو الحجة سنة ١٣٢٧</date> الموافق <date xml:lang="ar" when="1910-01-12" when-custom="1325-10-30" calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" change="#d2e154" xml:id="date_6.d2e205">٣٠ كانون الاول سنة ١٣٢٥</date> و<date calendar="#cal_gregorian" when="1910-01-12" xml:lang="ar" change="#d2e154" xml:id="date_7.d2e209">١٢ كانون الثاني سنة ١٩١٠</date></bibl></div></front>
+      <body change="#d2e154" xml:id="body_1.d2e212">
+         <div type="item" change="#d2e154" xml:id="div_2.d2e214">
+            <pb ed="print" n="2" facs="#facs_2" change="#d2e154" xml:id="pb_2.d2e216"/>
+            <pb ed="print" n="3" facs="#facs_3" change="#d2e154" xml:id="pb_3.d2e218"/>
+            <pb ed="print" n="4" facs="#facs_4" change="#d2e154" xml:id="pb_4.d2e220"/>
          </div>
       </body>
    </text>
